@@ -1,0 +1,85 @@
+{
+    "id": 3,
+    "title": "Ciencia y Naturaleza",
+    "description": "Preguntas sobre ciencia, biología y el mundo natural",
+    "questions": [
+        {
+            "statement": "¿Cuál es el planeta más grande del sistema solar?",
+            "answers": [
+                {
+                    "a": "Saturno",
+                    "b": "Júpiter", 
+                    "c": "Neptuno",
+                    "d": "Urano"
+                }
+            ],
+            "rightAnswer": "b",
+            "duration": 45
+        },
+        {
+            "statement": "¿Qué elemento químico tiene el símbolo 'O'?",
+            "answers": [
+                {
+                    "a": "Oro",
+                    "b": "Osmio", 
+                    "c": "Oxígeno",
+                    "d": "Oganesón"
+                }
+            ],
+            "rightAnswer": "c",
+            "duration": 45
+        },
+        {
+            "statement": "¿Qué animal es conocido como el rey de la selva?",
+            "answers": [
+                {
+                    "a": "Tigre",
+                    "b": "Elefante", 
+                    "c": "León",
+                    "d": "Gorila"
+                }
+            ],
+            "rightAnswer": "c",
+            "duration": 45
+        },
+        {
+            "statement": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+            "answers": [
+                {
+                    "a": "156",
+                    "b": "206", 
+                    "c": "250",
+                    "d": "306"
+                }
+            ],
+            "rightAnswer": "b",
+            "duration": 60
+        },
+        {
+            "statement": "¿Qué gas necesitan las plantas para la fotosíntesis?",
+            "answers": [
+                {
+                    "a": "Oxígeno",
+                    "b": "Nitrógeno", 
+                    "c": "Dióxido de carbono",
+                    "d": "Hidrógeno"
+                }
+            ],
+            "rightAnswer": "c",
+            "duration": 60
+        },
+        {
+            "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
+            "answers": [
+                {
+                    "a": "Hígado",
+                    "b": "Cerebro", 
+                    "c": "Corazón",
+                    "d": "Piel"
+                }
+            ],
+            "rightAnswer": "d",
+            "duration": 60
+        }
+    ]
+}

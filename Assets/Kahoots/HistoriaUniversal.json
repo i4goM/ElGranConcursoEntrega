@@ -1,0 +1,85 @@
+{
+    "id": 2,
+    "title": "Historia Universal",
+    "description": "Eventos y personajes históricos importantes",
+    "questions": [
+        {
+            "statement": "¿En qué año cayó el Muro de Berlín?",
+            "answers": [
+                {
+                    "a": "1985",
+                    "b": "1989", 
+                    "c": "1991",
+                    "d": "1995"
+                }
+            ],
+            "rightAnswer": "b",
+            "duration": 60
+        },
+        {
+            "statement": "¿Quién pintó la Mona Lisa?",
+            "answers": [
+                {
+                    "a": "Miguel Ángel",
+                    "b": "Rafael", 
+                    "c": "Leonardo da Vinci",
+                    "d": "Van Gogh"
+                }
+            ],
+            "rightAnswer": "c",
+            "duration": 45
+        },
+        {
+            "statement": "¿Qué antigua civilización construyó las pirámides de Giza?",
+            "answers": [
+                {
+                    "a": "Griegos",
+                    "b": "Romanos", 
+                    "c": "Egipcios",
+                    "d": "Mayas"
+                }
+            ],
+            "rightAnswer": "c",
+            "duration": 45
+        },
+        {
+            "statement": "¿En qué siglo llegó Colón a América?",
+            "answers": [
+                {
+                    "a": "XV",
+                    "b": "XVI", 
+                    "c": "XVII",
+                    "d": "XVIII"
+                }
+            ],
+            "rightAnswer": "a",
+            "duration": 60
+        },
+        {
+            "statement": "¿Quién fue el primer hombre en llegar a la Luna?",
+            "answers": [
+                {
+                    "a": "Buzz Aldrin",
+                    "b": "Yuri Gagarin", 
+                    "c": "Neil Armstrong",
+                    "d": "Michael Collins"
+                }
+            ],
+            "rightAnswer": "c",
+            "duration": 60
+        },
+        {
+            "statement": "¿En qué año comenzó la Primera Guerra Mundial?",
+            "answers": [
+                {
+                    "a": "1912",
+                    "b": "1914", 
+                    "c": "1916",
+                    "d": "1918"
+                }
+            ],
+            "rightAnswer": "b",
+            "duration": 60
+        }
+    ]
+}

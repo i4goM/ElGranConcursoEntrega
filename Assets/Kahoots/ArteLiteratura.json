@@ -1,0 +1,85 @@
+{
+    "id": 4,
+    "title": "Arte y Literatura",
+    "description": "Preguntas sobre arte, literatura y cultura",
+    "questions": [
+        {
+            "statement": "¿Quién escribió 'Don Quijote de la Mancha'?",
+            "answers": [
+                { 
+                    "a": "Miguel de Cervantes",
+                    "b": "Federico García Lorca",
+                    "c": "Gabriel García Márquez",
+                    "d": "Pablo Neruda"
+                }
+            ],
+            "rightAnswer": "a",
+            "duration": 45
+        },
+        {
+            "statement": "¿Qué pintor cortó parte de su propia oreja?",
+            "answers": [
+                { 
+                    "a": "Pablo Picasso",
+                    "b": "Vincent van Gogh",
+                    "c": "Salvador Dalí",
+                    "d": "Claude Monet"
+                }
+            ],
+            "rightAnswer": "b",
+            "duration": 60
+        },
+        {
+            "statement": "¿En qué ciudad italiana está la famosa torre inclinada?",
+            "answers": [
+                { 
+                    "a": "Roma",
+                    "b": "Venecia",
+                    "c": "Florencia",
+                    "d": "Pisa"
+                }
+            ],
+            "rightAnswer": "d",
+            "duration": 45
+        },
+        {
+            "statement": "¿Qué instrumento tocaba Beethoven?",
+            "answers": [
+                { 
+                    "a": "Violín",
+                    "b": "Piano",
+                    "c": "Flauta",
+                    "d": "Guitarra"
+                }
+            ],
+            "rightAnswer": "b",
+            "duration": 60
+        },
+        {
+            "statement": "¿Qué escritor creó a Sherlock Holmes?",
+            "answers": [
+                { 
+                    "a": "Agatha Christie",
+                    "b": "Arthur Conan Doyle",
+                    "c": "Charles Dickens",
+                    "d": "Edgar Allan Poe"
+                }
+            ],
+            "rightAnswer": "b",
+            "duration": 60
+        },
+        {
+            "statement": "¿De qué país es originario el baile del tango?",
+            "answers": [
+                { 
+                    "a": "Brasil",
+                    "b": "Argentina",
+                    "c": "España",
+                    "d": "Cuba"
+                }
+            ],
+            "rightAnswer": "b",
+            "duration": 45
+        }
+    ]
+}

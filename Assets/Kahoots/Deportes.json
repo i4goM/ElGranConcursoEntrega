@@ -1,0 +1,85 @@
+{
+    "id": 5,
+    "title": "Deportes",
+    "description": "Preguntas sobre diferentes deportes y competiciones",
+    "questions": [
+        {
+            "statement": "¿En qué deporte se utiliza una raqueta y una pelota amarilla?",
+            "answers": [
+                { 
+                    "a": "Bádminton",
+                    "b": "Tenis",
+                    "c": "Pádel",
+                    "d": "Squash"
+                }
+            ],
+            "rightAnswer": "b",
+            "duration": 45
+        },
+        {
+            "statement": "¿Cada cuántos años se celebran los Juegos Olímpicos?",
+            "answers": [
+                { 
+                    "a": "2 años",
+                    "b": "3 años",
+                    "c": "4 años",
+                    "d": "5 años"
+                }
+            ],
+            "rightAnswer": "c",
+            "duration": 45
+        },
+        {
+            "statement": "¿En qué país se inventó el fútbol?",
+            "answers": [
+                { 
+                    "a": "Brasil",
+                    "b": "Italia",
+                    "c": "Inglaterra",
+                    "d": "Alemania"
+                }
+            ],
+            "rightAnswer": "c",
+            "duration": 60
+        },
+        {
+            "statement": "¿Cuántos jugadores tiene un equipo de baloncesto en la cancha?",
+            "answers": [
+                { 
+                    "a": "5",
+                    "b": "6",
+                    "c": "7",
+                    "d": "8"
+                }
+            ],
+            "rightAnswer": "a",
+            "duration": 45
+        },
+        {
+            "statement": "¿Qué país ha ganado más Copas del Mundo de fútbol?",
+            "answers": [
+                { 
+                    "a": "Alemania",
+                    "b": "Italia",
+                    "c": "Argentina",
+                    "d": "Brasil"
+                }
+            ],
+            "rightAnswer": "d",
+            "duration": 60
+        },
+        {
+            "statement": "¿En qué deporte se dice 'home run'?",
+            "answers": [
+                { 
+                    "a": "Béisbol",
+                    "b": "Rugby",
+                    "c": "Hockey",
+                    "d": "Cricket"
+                }
+            ],
+            "rightAnswer": "a",
+            "duration": 45
+        }
+    ]
+}
